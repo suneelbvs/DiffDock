@@ -5,9 +5,11 @@ About this repo:
 
 This repo contains the example data files, and colab notebook links to run docking for single complex and multiple complexes.
 
-[For Single Complex](https://github.com/suneelbvs/DiffDock/blob/main/DiffDock_SingleComplex.ipynb)
+1. [Data](https://github.com/suneelbvs/DiffDock/tree/main/data) folder contains the protein, and ligand structures for demo run
 
-[For Multiple Entries] - Work In Progress
+2. [Colab Notebook For Single Complex](https://github.com/suneelbvs/DiffDock/blob/main/DiffDock_SingleComplex.ipynb)
+
+3. [Colab Notebook For Multiple Entries] - Work In Progress
 
 [Colab Notebook by Brian Naughton](https://colab.research.google.com/drive/1nvCyQkbO-TwXZKJ0RCShVEym1aFWxlkX). The current version of the colab notebook revised from Brain's work/code.
 
