@@ -11,7 +11,7 @@ This repo contains the example data files, and colab notebook links to run docki
 
 3. [Colab Notebook For Multiple Entries] - Work In Progress
 
-[Colab Notebook by Brian Naughton](https://colab.research.google.com/drive/1nvCyQkbO-TwXZKJ0RCShVEym1aFWxlkX). The current version of the colab notebook revised from Brain's work/code.
+Credits: The current version of the colab notebook revised from Brain's work/code. [Brian Naughton's work](https://colab.research.google.com/drive/1nvCyQkbO-TwXZKJ0RCShVEym1aFWxlkX)
 
 Refer DiffDock [Research Article](https://arxiv.org/abs/2210.01776) - for Implementation of DiffDock, state-of-the-art method for molecular docking, by Gabriele Corso*, Hannes Stark*. Please refer [Github](https://github.com/gcorso/DiffDock) for DiffDock implmentation code.
 
