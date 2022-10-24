@@ -1,0 +1,301 @@
+6MO8 - minimized_ligand
+                    3D
+ Schrodinger Suite 2020-4.
+ 41 44  0  0  1  0            999 V2000
+   -0.7028   -1.1582    0.0101 C   0  0  0  0  0  0
+   -2.8184    0.0102    0.0243 C   0  0  0  0  0  0
+   -2.1453    1.2544    0.0245 C   0  0  0  0  0  0
+   -0.7147    1.2800    0.0175 C   0  0  0  0  0  0
+    0.0007    0.0465    0.0114 C   0  0  0  0  0  0
+   -2.0949   -1.1802    0.0158 C   0  0  0  0  0  0
+   -2.8085   -2.4791    0.0046 C   0  0  0  0  0  0
+   -3.2192   -3.2262    1.0920 C   0  0  0  0  0  0
+   -3.8319   -4.3500    0.6475 O   0  0  0  0  0  0
+   -3.8223   -4.3397   -0.7459 N   0  0  0  0  0  0
+   -3.2162   -3.2291   -1.1045 C   0  0  0  0  0  0
+   -3.0453   -2.9207   -2.5753 C   0  0  0  0  0  0
+   -3.1273   -3.0539    2.5885 C   0  0  0  0  0  0
+   -2.8913    2.3951    0.0286 N   0  0  0  0  0  0
+   -2.2470    3.5870    0.0250 C   0  0  0  0  0  0
+   -0.8620    3.7109    0.0180 C   0  0  0  0  0  0
+   -0.0845    2.5559    0.0149 C   0  0  0  0  0  0
+    1.4855   -0.0170   -0.0001 C   0  0  0  0  0  0
+    2.3365   -0.0516    1.0876 C   0  0  0  0  0  0
+    3.6156   -0.1016    0.6436 O   0  0  0  0  0  0
+    3.6020   -0.1031   -0.7500 N   0  0  0  0  0  0
+    2.3379   -0.0545   -1.1092 C   0  0  0  0  0  0
+    1.9846   -0.0450   -2.5797 C   0  0  0  0  0  0
+    2.1393   -0.0437    2.5838 C   0  0  0  0  0  0
+   -0.1591   -2.0929    0.0016 H   0  0  0  0  0  0
+   -3.8995   -0.0082    0.0269 H   0  0  0  0  0  0
+   -2.5197   -1.9796   -2.7395 H   0  0  0  0  0  0
+   -4.0064   -2.8395   -3.0838 H   0  0  0  0  0  0
+   -2.4732   -3.6957   -3.0862 H   0  0  0  0  0  0
+   -2.6123   -2.1322    2.8596 H   0  0  0  0  0  0
+   -2.5817   -3.8756    3.0524 H   0  0  0  0  0  0
+   -4.1149   -3.0185    3.0484 H   0  0  0  0  0  0
+   -2.8731    4.4672    0.0274 H   0  0  0  0  0  0
+   -0.3984    4.6864    0.0146 H   0  0  0  0  0  0
+    0.9931    2.6306    0.0089 H   0  0  0  0  0  0
+    0.9069   -0.0220   -2.7428 H   0  0  0  0  0  0
+    2.3629   -0.9303   -3.0913 H   0  0  0  0  0  0
+    2.4004    0.8249   -3.0888 H   0  0  0  0  0  0
+    1.0830   -0.0233    2.8528 H   0  0  0  0  0  0
+    2.6054    0.8273    3.0445 H   0  0  0  0  0  0
+    2.5724   -0.9288    3.0496 H   0  0  0  0  0  0
+  1  5  2  0  0  0
+  1  6  1  0  0  0
+  1 25  1  0  0  0
+  2  3  1  0  0  0
+  2  6  2  0  0  0
+  2 26  1  0  0  0
+  3  4  2  0  0  0
+  3 14  1  0  0  0
+  4  5  1  0  0  0
+  4 17  1  0  0  0
+  5 18  1  0  0  0
+  6  7  1  0  0  0
+  7  8  2  0  0  0
+  7 11  1  0  0  0
+  8  9  1  0  0  0
+  8 13  1  0  0  0
+  9 10  1  0  0  0
+ 10 11  2  0  0  0
+ 11 12  1  0  0  0
+ 12 27  1  0  0  0
+ 12 28  1  0  0  0
+ 12 29  1  0  0  0
+ 13 30  1  0  0  0
+ 13 31  1  0  0  0
+ 13 32  1  0  0  0
+ 14 15  2  0  0  0
+ 15 16  1  0  0  0
+ 15 33  1  0  0  0
+ 16 17  2  0  0  0
+ 16 34  1  0  0  0
+ 17 35  1  0  0  0
+ 18 19  2  0  0  0
+ 18 22  1  0  0  0
+ 19 20  1  0  0  0
+ 19 24  1  0  0  0
+ 20 21  1  0  0  0
+ 21 22  2  0  0  0
+ 22 23  1  0  0  0
+ 23 36  1  0  0  0
+ 23 37  1  0  0  0
+ 23 38  1  0  0  0
+ 24 39  1  0  0  0
+ 24 40  1  0  0  0
+ 24 41  1  0  0  0
+M  END
+> <s_m_entry_id>
+7
+
+> <s_m_entry_name>
+6mo8.1_ligand
+
+> <s_pdb_PDB_TITLE>
+N-TERMINAL BROMODOMAIN OF HUMAN BRD2 IN COMPLEX WITH 4,4'-(QUINOLINE- 5,7-DIYL)BIS(3,5-DIMETHYLISOXAZOLE) INHIBITOR
+
+> <s_pdb_PDB_ID>
+6MO8
+
+> <r_pdb_PDB_CRYST1_a>
+116.221
+
+> <r_pdb_PDB_CRYST1_b>
+55.773
+
+> <r_pdb_PDB_CRYST1_c>
+67.676
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+94.38
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+C 1 2 1
+
+> <i_pdb_PDB_CRYST1_z>
+12
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSCRIPTION/TRANSCRIPTION INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+04-OCT-18
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.186
+
+> <r_pdb_PDB_Rfree>
+0.223
+
+> <r_pdb_PDB_RESOLUTION>
+1.8
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Chains>
+C
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+C:\Users\info\Documents\Schrodinger
+
+> <s_m_Source_File>
+6mo8.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+2
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2020-4
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_ppw_het_states>
+eJytlL1y1EAQhF9FpdhnNHPaPzsjIqUIKYIr44jjjuAIqCu/O6sZSZ9WJBSFo3Gvbnq7e2bvvfRP3ef6p+lYHrrhy0NXy3GgFEqlPFKOlIEyUibKTAlbgC3AFmALsAXYAmwBtgBbgC3AFmGLsEVjm+rZCdeofjoDlVswyL1pgXH9yXTmljXApEqw01kaYJIluOziBK/dZsFxN1sboPBFNCDtgLC5erIvMkBeeihZeUxCNh6LkpCHI+TkWpSIPJ0GiJumdo+Qd0DEsWAXC4gLZemhhOu5yhTm8DgMUrvc+0lVnfQJ0HqpftJQ/z9UwP8r6+lbbfFYSq6S+k+30+21+/F6OZ1vv/yD7tvL6fzu+/X83H04vL9evnYv15+X21Onz93H+kk/Efe6rlVkeCPDGxneyPBGhjcyvJHhTQxvYngTq5JgS7Al2BJsCbYEW4Itw5Zhy7Bl2DJsGbYcN2sVbUgiIzADJB5tamLYA5mf2HzHuAMSOxLjwtIAiamxG5g4wWu3WXDczdYGYFftzDJoAa6ebN8T05t06aFk5TEJ2XgsSkIejpCTa1Ei8nRagKZ2ZqG1AI5lu1hGXD4uPZRwPdc/1ippu1YpbtcqH7drJf+yVrJdq+O6VpnhzQxvZnhLvcFhFlTE6nkOs+fPUM1A2QGFCZmB5V1xffcqaTShOz2Hv3gnDuqKxlVRYa8Ke1XYq8JeFba4YETBiLIakYeBUiiV8kg5UgbKSJkoMyVsApvAJrAJbAKbhM1DUWwgC0s+A+x0sQkt4x5gdYqNbAktYKoEO51lC5gswWUXJ3jtNguOu9m6AcxcIQjPoAXWq9uZRyOk5D2UrDwmIRuPRUnIwxFyci1KRJ5OC9DUziy0FggAdjFRAF16KOF6rvuHoqpqHoqqYfNQ1E7/8aF4+w2oTFF1
+
+> <r_i_Potential_Energy-OPLS3e>
+-2833.88476203965
+
+> <r_i_RMS_Derivative-OPLS3e>
+0.0662142862063708
+
+> <r_i_Max_Derivative-OPLS3e>
+0.830866417416063
+
+> <r_i_Stretch_Energy-OPLS3e>
+3.97420771108662
+
+> <r_i_Bend_Energy-OPLS3e>
+95.6734958484419
+
+> <r_i_LJ-14_Energy-OPLS3e>
+172.554468836136
+
+> <r_i_El-14_Energy-OPLS3e>
+-133.27800801716
+
+> <r_i_Van_der_Waals_Energy-OPLS3e>
+-266.598434783059
+
+> <r_i_Electrostatic_Energy-OPLS3e>
+-2737.1559811663
+
+> <r_i_Dihedral_Energy-OPLS3e>
+30.9454895312043
+
+> <r_i_target_temperature>
+298
+
+> <b_ppw_ran_impref>
+1
+
+> <s_m_source_file>
+ligprep_9.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+52149
+
+> <s_epik_input>
+W0NIM11jMW5vYyhbQ0gzXSljMS1jKGMoYzIzKVtjSF1bY0hdW2NIXW4zKVtjSF1jKFtjSF0yKS1jNGMoW0NIM10pb25jNFtDSDNd
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLW50JywgJy1tYScsICcyMDAnLCAnLWltYWUnLCAnPGluZmlsZS5tYWU+JywgJy1vbWFlJywgJzxvdXRmaWxlLm1hZT4n
+
+> <r_epik_Ionization_Penalty>
+  0.0025
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0025
+
+> <r_epik_State_Penalty>
+  0.0017
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00174477407609765
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+OPLS3e
+
+> <r_lp_Energy>
+24.937567
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+6MO8 - minimized_ligand-1
+
+> <s_m_job_name>
+ligprep_9
+
+> <s_m_subgroup_title>
+ligprep_9-out1
+
+> <s_m_subgroupid>
+ligprep_9-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
